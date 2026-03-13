@@ -1,14 +1,14 @@
-#🏥 Massachusetts General Hospital: Patient Outcomes & Operational Analysis
+# 🏥 Massachusetts General Hospital: Patient Outcomes & Operational Analysis
 
 Role: Healthcare Data Analyst
 
 Tool: Power BI (Advanced Data Modeling, DAX, Trend Analysis)
 
-##📋 Project Overview
+## 📋 Project Overview
 
 This analysis evaluates patient admissions, readmission rates, and financial coverage at Massachusetts General Hospital. The goal is to provide hospital administrators with a clear view of operational efficiency, patient demographics, and the financial impact of different insurance payers.
 
-###🎯 Business Objectives:
+### 🎯 Business Objectives:
 
 Operational Efficiency: Monitor Average Length of Stay (ALOS) and total procedures.
 
@@ -16,7 +16,7 @@ Patient Care: Track the readmission rate to identify potential gaps in discharge
 
 Financial Analysis: Analyze revenue coverage by insurance payers and identify the "Rate of Covered by Insurance."
 
-###🚀 Key Insights from the Dashboard
+### 🚀 Key Insights from the Dashboard
 
 High Readmission Rate: The dashboard identifies a 87.68% readmission rate (854 out of 974 patients). This is a critical metric for hospital efficiency and suggests a need for deeper investigation into post-discharge care.
 
@@ -26,7 +26,7 @@ Procedure Volume: The hospital managed 47.70K total procedures, with a revenue o
 
 Length of Stay: The average length of stay is 7.25 hours, though the distribution shows a significant peak in the 30-50 second category, indicating a high volume of quick outpatient procedures or emergency screenings.
 
-###🛠️ Technical Implementation
+### 🛠️ Technical Implementation
 
 1. Data Visualization & UI
 KPI Header: Implemented a clean, top-row KPI card system for immediate visibility of vital stats (Total Patients, Cost per Visit, etc.).
@@ -42,10 +42,10 @@ Financial Coverage: Developed logic to compare "Total Revenue" vs. "Revenue of C
 
 Time Intelligence: Utilized line charts to track the correlation between Average Cost per Visit and Length of Stay over a 10-year historical period (2012–2022).
 
-##📊 Dashboard Preview
+## 📊 Dashboard Preview
 ![Healthcare Dashboard](images/hospital.png)
 
-##💡 Recommendations
+## 💡 Recommendations
 
 Reduce Readmissions: Implement a follow-up protocol for the 854 readmission patients to understand if early discharge is contributing to the high return rate.
 
