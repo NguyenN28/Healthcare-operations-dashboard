@@ -1,4 +1,4 @@
-🏥 Massachusetts General Hospital: Patient Outcomes & Operational Analysis
+**🏥 Massachusetts General Hospital: Patient Outcomes & Operational Analysis**
 
 Role: Healthcare Data Analyst
 
@@ -43,7 +43,7 @@ Financial Coverage: Developed logic to compare "Total Revenue" vs. "Revenue of C
 Time Intelligence: Utilized line charts to track the correlation between Average Cost per Visit and Length of Stay over a 10-year historical period (2012–2022).
 
 📊 Dashboard Preview
-
+![Healthcare Dashboard](images/hospital.png)
 
 💡 Recommendations
 
